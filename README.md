@@ -13,8 +13,8 @@ A bookstore web app where users can add, edit, and manage books, with filtering 
 
 ## Screenshots
 
-![App Screenshot](assets/page1.png)
-![App Screenshot](assets/page2.png)
-![App Screenshot](assets/page3.png)
-![App Screenshot](assets/page4.png)
+![App Screenshot](Client/src/assets/page1.png)
+![App Screenshot](Client/src/assets/page2.png)
+![App Screenshot](Client/src/assets/page3.png)
+![App Screenshot](Client/src/assets/page4.png)
 
